@@ -1,1 +1,1 @@
-simple algorithm exercises in python
+##simple algorithm exercises in python
