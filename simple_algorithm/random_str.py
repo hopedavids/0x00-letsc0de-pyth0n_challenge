@@ -12,6 +12,7 @@ to_sep = to_caps.split()
 for z in to_sep: 
     # 4. print out the first character of the list and include a dot
     print(z[0], end='')
+    
 
 # 5. include a new line
 print()
